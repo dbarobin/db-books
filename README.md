@@ -8,7 +8,7 @@
 
 ## SQL Server ##
 
-### SQL Server 2005技术内幕 ###
+### SQL Server 2005 技术内幕 ###
 
 > 说明：包括 T-SQL 查询、T-SQL 程序设计、存储引擎、查询调整和优化。
 
