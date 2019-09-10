@@ -25,8 +25,6 @@
 
 **About**
 
-温国兵
-
 * Robin Wen
 * Gmail：blockxyz@gmail.com
 * Blog：https://dbarobin.com
